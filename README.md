@@ -1,5 +1,5 @@
 # BeerJS Skopje
 
-Vol.1 happening in May. Stay tuned for more info. 
+Beer.js e собир наменет за ентузијасти за пиво и JavaScript. Сите се добредојдени!
 
 [beerjs.mk](http://beerjs.mk) 
